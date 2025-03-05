@@ -7,7 +7,7 @@
   - LinkedIn: [Rhouma Mohamed](https://www.linkedin.com/in/rhouma-mohamed-6291b02b4)  
   - GitHub: [medrhouma](https://github.com/medrhouma)  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I enjoy solving challenging coding problems and experimenting with creative UI/UX designs.  
+- [![trophy](https://github-profile-trophy.vercel.app/?username=medrhouma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 medrhouma/medrhouma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
