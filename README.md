@@ -6,7 +6,7 @@
 - 📫 How to reach me:  
   - LinkedIn: [Rhouma Mohamed](https://www.linkedin.com/in/rhouma-mohamed-6291b02b4)  
   - GitHub: [medrhouma](https://github.com/medrhouma)  
-- 😄 Pronouns: He/Him  
+  
 - [![trophy](https://github-profile-trophy.vercel.app/?username=medrhouma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
