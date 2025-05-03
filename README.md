@@ -8,16 +8,7 @@
   - GitHub: [medrhouma](https://github.com/medrhouma)  
   
 - [![trophy](https://github-profile-trophy.vercel.app/?username=medrhouma)](https://github.com/ryo-ma/github-profile-trophy)
-- import com.filipkowicz.headeritemdecorator.HeaderItemDecoration
 
-...
-
-recyclerView.addItemDecoration(HeaderItemDecoration(this,
-                    shouldFadeOutHeader = true
-                ) {
-                // example check for header item
-                    this@MainFragment.adapter.getItemViewType(it) == R.layout.header_layout
-                })
 
 <!---
 medrhouma/medrhouma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
